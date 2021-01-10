@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/MitsuGans/z/tree/main/Gans/images (15).jpeg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/MitsuGans/z/main/Gans/images (15).jpeg" width="230" height="230"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
